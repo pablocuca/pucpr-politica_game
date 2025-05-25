@@ -33,17 +33,15 @@ O candidato que marcar 2 ou mais pontos vence a partida e ganha pontos no rankin
 
 ## 📸 Telas (Exemplos)
 
-*(Aqui você pode adicionar screenshots do seu aplicativo)*
-
-| Tela de Jogo | Tela de Ranking | Tela de Histórico |
-| :---: | :---: | :---: |
-| *[Insira o Screenshot da GameScreen aqui]* | *[Insira o Screenshot da RankingScreen aqui]* | *[Insira o Screenshot da HistoricoScreen aqui]* |
+|               Tela de Jogo               |             Tela de Ranking              |            Tela de Histórico             |
+|:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
+| *![Screenshot](./screenshots/tela1.png)* | *![Screenshot](./screenshots/tela2.png)* | *![Screenshot](./screenshots/tela3.png)* |
 
 ## ⚙️ Como Executar o Projeto
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone https://github.com/pablocuca/pucpr-politica_game
     ```
 2.  **Abra no Android Studio:**
     * Inicie o Android Studio.
